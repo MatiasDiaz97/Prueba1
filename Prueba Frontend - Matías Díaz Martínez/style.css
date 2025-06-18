@@ -1,0 +1,10 @@
+p {
+    color: rgb(63, 27, 192);
+}
+table, tr, th, td {
+    border: 2px rgb(17, 168, 67) solid;
+    border-collapse: collapse;
+}
+body {
+    background-color: rgb(139, 214, 236);
+}
